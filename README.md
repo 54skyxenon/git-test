@@ -1,9 +1,11 @@
 # git-test
 ### Collective repository for any kind of Git tutorial or workshop.
+
 <ul>
 	<li> Coursera React Native Course </li>
 	<li> Code 4 Community Dev. Workshop </li>
 </ul>
+
 ### The following material is the workshop handout verbatim.
 
 ## Repository (Repo)
